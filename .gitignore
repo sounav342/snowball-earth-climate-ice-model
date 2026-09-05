@@ -1,0 +1,27 @@
+# Generated model state and figures
+output/
+EBMRestart/
+FISRestart/
+FISEBMRestart/
+EBMFigures/
+FISFigures/
+Figures/
+*.mat
+*.fig
+*.png
+*.pdf
+*.csv
+*.out
+*.e
+*.o
+
+# MATLAB and editor artifacts
+*.asv
+*~
+*.autosave
+slprj/
+codegen/
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite this software and the associated publication."
+title: "Snowball Earth Coupled Climate-Ice Model"
+type: software
+authors:
+  - family-names: "Sengupta"
+    given-names: "Sounav"
+version: 1.0.0
+date-released: 2026-09-05
+abstract: >-
+  MATLAB implementation of a one-dimensional atmospheric energy-balance
+  model coupled to a saline slab ocean and a dynamic sea-glacier model.
+references:
+  - type: article
+    authors:
+      - family-names: "Pollard"
+        given-names: "David"
+      - family-names: "Kasting"
+        given-names: "James F."
+    title: "Snowball Earth: A thin-ice solution with flowing sea glaciers"
+    journal: "Journal of Geophysical Research: Oceans"
+    year: 2005
+    doi: "10.1029/2004JC002525"
